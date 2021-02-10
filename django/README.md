@@ -6,5 +6,5 @@ sudo docker build -t gerdock_v1 .
 ```
 3. run container via
 ```
-sudo docker run -p 3535:3535 gerdock_v1
+sudo docker run -p 3535:3535 dockdock_v1
 ```
