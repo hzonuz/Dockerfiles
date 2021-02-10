@@ -1,4 +1,4 @@
-# Setup
+## Setup
 1. install docker
 2. build container via
 ```
